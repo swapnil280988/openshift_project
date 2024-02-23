@@ -1,4 +1,4 @@
-<body bgcolor='pink'>
+<body bgcolor='aqua'>
 
 <?php
    print ("This is V1....."); 
